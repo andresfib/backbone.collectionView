@@ -4,7 +4,7 @@
 	"homepage": "http://rotundasoftware.github.io/backbone.collectionView/",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/rotundasoftware/backbone.collectionView"
+		"url": "https://github.com/andresfib/backbone.collectionView"
 	},
 	"authors": [
 		"David Beck <david@rotundasoftware.com>"
